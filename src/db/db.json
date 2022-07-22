@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "name": "Fulano do beutrano",
+      "email": "fulando@gmail.com",
+      "year": "16",
+      "phone": "12997311640",
+      "id": "KbzcG6C"
+    },
+    {
+      "name": "Ciclano",
+      "email": "ciclano@gmail.com",
+      "year": "25",
+      "phone": "1140028922",
+      "id": "eW0Lnmy"
+    },
+    {
+      "name": "Teste para ALTERAR",
+      "email": "teste@gmail.com",
+      "year": "18",
+      "phone": "5588996655",
+      "id": "fAM0UH3"
+    },
+    {
+      "name": "Teste denovo",
+      "email": "testedenovo@gmail.com",
+      "year": "26",
+      "phone": "7788996655",
+      "id": "cI7XuOr"
+    }
+  ]
+}

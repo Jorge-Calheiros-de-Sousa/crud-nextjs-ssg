@@ -1,0 +1,33 @@
+.header {
+    background-color: black;
+    display: flex;
+    align-items: 'center';
+    justify-content: space-between;
+    color: white;
+    border-bottom: 2px solid gray;
+}
+
+.title {
+    margin-left: 10px;
+}
+
+.list {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    margin-right: 10px;
+    align-items: center;
+}
+
+.list li {
+    padding: 0 20px 0 20px;
+    height: 100%;
+    align-items: center;
+    display: flex;
+    cursor: pointer;
+}
+
+.list li:hover {
+    background-color: white;
+    color: black;
+}
